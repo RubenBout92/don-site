@@ -24,6 +24,7 @@ Met eHerkenning log je in bij meer dan 600 publiek en private dienstverleners, w
 
 - **Kamer van Koophandel (KvK)**
 - **Belastingdienst**
+- **RDW**
 - **UWV**
 - **RVO**
 - **Justis**
